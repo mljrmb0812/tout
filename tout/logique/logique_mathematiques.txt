@@ -1,0 +1,5 @@
+7. Logique et Mathematiques
+Dans une approche plus formelle, les elements du « tout » peuvent etre :
+     ensembles : en mathematiques, le tout peut etre formalise comme un ensemble qui regroupe des elements. Un ensemble peut contenir des nombres, des objets geometriques, des structures algebriques, etc.
+     Relations et fonctions : Les liens entre ces elements peuvent etre formalises par des fonctions ou des relations logiques.
+     Concepts abstraits : Les entites comme les nombres, les structures logiques, ou encore les infinis, qui sont des abstractions mais font partie du tout en tant qu’elements necessaires pour decrire le monde.

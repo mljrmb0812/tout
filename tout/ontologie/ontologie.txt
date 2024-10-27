@@ -1,0 +1,9 @@
+1. Ontologique (l’Etre et l’existence)
+Dans l’ontologie, on s’interesse aux differents modes d’existence des choses. Les categories peuvent Etre :
+     Etres materiels : Tout ce qui est physiquement tangible, comme les objets, les corps celestes, les organismes vivants, etc.
+     Etres immateriels : Les entites non physiques, comme les idees, les concepts abstraits (le nombre, les formes geometriques), les emotions, ou encore les âmes dans certaines traditions religieuses.
+     Substances : Les Etres consideres comme ayant une existence autonome (comme les objets physiques ou les Etres vivants).
+     Accidents : Des proprietes qui existent dans quelque chose d'autre, comme la couleur, la forme ou la temperature d'un objet.
+     Entites transcendantales : Celles qui ne sont pas directement perceptibles, comme Dieu ou l'Absolu dans les metaphysiques religieuses et philosophiques.
+
+unicode point puce alt  + 0149 rempli

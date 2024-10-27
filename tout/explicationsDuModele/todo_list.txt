@@ -1,0 +1,10 @@
+todo_list
+
+Enlever toutes les chaines de caractere du fichier tout.txt qui sont pas bien encodes dans PowerShell. Pour cela :
+
+copier-coller chaque partie du tout qui n'a pas ete enregistre dans leur dossier respectif
+lire le contenu du fichier.txt dans PowerShell afin de voir les caractères qui ne sont pas encodes
+	le fichier a-t-il des caracters non encodes ?
+		Oui = remplacer les caracters dans tout.txt
+		Non = passer a la partie suivante du fichier
+remplacer chaque caractere mal encode par PowerShell dans le fichier d'origine tout.txt afin de ne pas reiterer la manipulation
